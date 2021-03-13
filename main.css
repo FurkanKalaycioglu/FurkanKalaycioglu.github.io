@@ -1,0 +1,89 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: Quicksand,sans-serif;
+ }
+ html {
+    height: 100%;
+ }
+ * {
+    box-sizing: border-box;
+    
+  }
+ div{
+    display: block;
+    
+ }
+ body {
+    color: #fff;
+    position: relative;
+    font-size: 16px;
+    line-height: 1.4em;
+    letter-spacing: 0.08em;
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+    background-image: url(background.jpg);
+ }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+  }
+  li {
+     padding-left: 10px;
+     padding-right: 15px;
+     float: right;
+     display: inline;
+  }
+ dl {
+    font-size: 0.9em;
+    margin-top: 0;
+    margin-bottom: 22px; }
+  
+  dt {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 0.01em; }
+  
+  dd {
+    margin: 0 0 0.563em 0; }
+  
+ 
+ .dl-horizontal dt {
+    color: #fff;
+    float: left;
+    width: 100px;
+    overflow: hidden;
+    clear: left;
+ }
+ .dl-horizontal dd {
+    color: #fff;
+    margin-left: 112px;
+ }
+
+ .title-thin {
+    font-size: 1.35em;
+    font-weight: 400;
+    margin-bottom: 1.571em;
+    color: #bcbcbc;
+ }
+
+ .social {
+    vertical-align: middle;
+ }
+ .social li {
+    margin: 4px 3px;
+ }
+ .clear-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+ }
